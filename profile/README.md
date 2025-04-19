@@ -1,30 +1,31 @@
-# BlumeFN
+#  BlumeFN
 
-Thanks for stopping by! We are a group of developers, designers, and Fortnitese enthusiasts who share a passion to preserve the original Fortnite experience through Chapter 1.
+##  Join Our Growing Team
 
-## Our Mission
+We're actively seeking talented individuals who share our passion for Fortnite's heritage:
 
-Our goal is to recreate the magic of Fortnite's early seasons through open-source development, collaboration with the game community, and technical innovation. Our staff insists on respecting the history of the game while providing educational experiences to developers interested in game emulation and recreation.
+| Role | Responsibilities | Skills Required |
+|------|-----------------|----------------|
+| **Core Developers** | Server architecture, client modification, gameplay systems | C++, networking |
+| **Frontend Developers** | UI/UX implementation, menu systems, HUD elements | HTML/CSS/JS, Electron, UI/UX design |
+| **QA Specialists** | Bug identification, regression testing, feature validation | Testing methodologies, documentation |
+| **Community Managers** | User engagement, feedback collection, community building | Communication, social media, event coordination |
+| **Documentation Specialists** | Technical writing, tutorial creation, knowledge base management | Technical writing, documentation systems |
 
-## Be Part of Our Team
+## Connect With Us
 
-We're always looking for passionate contributors who share our passion for the original Fortnite gameplay:
+- **Discord Community**: [Join our Discord Server](https://discord.gg/EHKrkJGd)
+- **Contribution Hub**: [GitHub Repositories](https://github.com/BlumeFN)
+- **Support the Project**: [Donation Portal](https://blume-web-v2.octoberguy1991.workers.dev/)
+- **Development Updates**: [Dev Blog](https://blumefn.dev/blog)
 
-- **Developers**: Help with core emulation, networking, UI, or tools development
-- **Artists**: Assist in asset recreation and visual performance
-- **Testers**: Find bugs and assist in polishing the experience
-- **Documenters**: Write guides, wikis, and technical documentation
+##  Legal Statement
 
-## Community Links
+BlumeFN is an educational, non-commercial project focused on game preservation and technical education. We are not affiliated with, endorsed by, or associated with Epic Games. This initiative operates within the boundaries of applicable laws regarding game preservation, educational use, and personal use. 
 
-- BlumeFN [Discord Server]([https://discord.gg/ogfnproject](https://discord.gg/EHKrkJGd))
-- BlumeFN Donate Site [Donate Website](https://blume-web-v2.octoberguy1991.workers.dev/)
-
-## Legal Statement
-
-OGFN is an educational, non-commercial undertaking. We have no affiliation with, are not endorsed by, or are associated with Epic Games. This undertaking is for preservation of games, educational use, and personal use based on applicable laws. We do not distribute or use any copyrighted material belonging to Epic Games. 
+We do not distribute or utilize any copyrighted materials belonging to Epic Games. All assets used in this project are either recreated from scratch by our community or properly licensed for such use.
 
 ---
 
-⭐ **Star our repositories to show your support!**
-    **Tell the world about OGFN Project!**
+ **Show your support by starring our repositories!**  
+**Help us preserve gaming history – share the BlumeFN Project with fellow enthusiasts!**
