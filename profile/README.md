@@ -6,7 +6,7 @@ We're actively seeking talented individuals who share our passion for Fortnite's
 
 | Role | Responsibilities | Skills Required |
 |------|-----------------|----------------|
-| **Core Developers** | Server architecture, client modification, gameplay systems | C++, networking |
+| **Core Developers** | Server architecture, client modification, gameplay systems | C++, Javascript, typescript, golang, rust, etc, networking |
 | **Frontend Developers** | UI/UX implementation, menu systems, HUD elements | HTML/CSS/JS, Electron, UI/UX design |
 | **QA Specialists** | Bug identification, regression testing, feature validation | Testing methodologies, documentation |
 | **Community Managers** | User engagement, feedback collection, community building | Communication, social media, event coordination |
